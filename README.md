@@ -11,9 +11,9 @@
 
 To run code, follow these steps:
 
-1. `[clone the repo ](https://github.com/Ireme-Nyawe/DATASTRUCTURE_HUYE_223013983_Jean_Pierre_AKIMANA.git)`
+1. **clone the repo:** `git clone https://github.com/Ireme-Nyawe/DATASTRUCTURE_HUYE_223013983_Jean_Pierre_AKIMANA.git`
 2. open code in any python IDE
-3. Use IDE to run code
+3. Use that IDE to run code
 
 ### that is one of the way to be used, you can use other pereferd if any .
 
