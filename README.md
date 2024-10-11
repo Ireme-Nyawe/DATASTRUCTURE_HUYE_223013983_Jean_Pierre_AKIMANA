@@ -1,8 +1,10 @@
 ﻿# DATASTRUCTURE_HUYE_223013983_Jean_Pierre_AKIMANA
+# DATA STRUCTURE and ALGORITHM 
 
-#### here is the repo to be used couse moves
 **A data structure** is a way of organizing and storing data to enable efficient access and modification. A
 n algorithm is a step-by-step procedure or set of rules designed to perform a specific task or solve a problem efficiently
+
+# here is the repo to be used in module  moves
 ## Folder Arrangement
 
 - **/**: contains personal exesices,works and assignment within module moves.
