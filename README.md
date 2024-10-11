@@ -13,11 +13,10 @@ n algorithm is a step-by-step procedure or set of rules designed to perform a sp
 
 ## Running the Code
 
-To run code, follow these steps:
+To run code, follow these few steps:
 
 1. **Clone the repo:** `git clone https://github.com/Ireme-Nyawe/DATASTRUCTURE_HUYE_223013983_Jean_Pierre_AKIMANA.git`
-2. Open code in any python IDE
+2. Open code in any python IDE like `python IDLE` 
 3. Use that IDE to run code
-
-### that is one of the way to be used, you can use other pereferd if any .
+   This is one of ways to be used, you can use other pereferd if you want.**
 
