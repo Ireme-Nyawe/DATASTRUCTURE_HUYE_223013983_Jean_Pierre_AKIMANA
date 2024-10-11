@@ -28,17 +28,17 @@ This Python program simulates a hospital queue management system. Patients are r
 
 -------------------------------------------------------------------------------------
 # Participants 
-| S/N | REG        | Last Name   | First Name     |
-|-----|------------|-------------|----------------|
-| 1   | 223013983  | AKIMANA     | Jean Pierre    |             
-| 2   | 223007511  | NIYONSABA   | Erina          |   
-| 3   | 223004810  | NIYONSENGA  | Ange Carine    |             
-| 4   | 223016138  | Niyonsenga  | Aphrodis       |             
-| 5   | 223011216  | NIYONSHUTI  | Florence       |             
-| 6   | 223011370  | NICYOGIHE   | Rebeca         |             
-| 7   | 221007304  | MUTONI      | AIMABLE        |             
-| 8   | 223018803  | MUKAMA      | UYISENGA Lea   |       
-| 9   | 223010019  | MUKAMAKOM   | BE Violette    |        
-| 10  | 223009957  | MUNEZERO    | Grace          |         
+| S/N | REG        | Last Name     | First Name     |
+|-----|------------|---------------|----------------|
+| 1   | 223013983  | AKIMANA       | Jean Pierre    |             
+| 2   | 223007511  | NIYONSABA     | Erina          |   
+| 3   | 223004810  | NIYONSENGA    | Ange Carine    |             
+| 4   | 223016138  | Niyonsenga    | Aphrodis       |             
+| 5   | 223011216  | NIYONSHUTI    | Florence       |             
+| 6   | 223011370  | NICYOGIHE     | Rebeca         |             
+| 7   | 221007304  | MUTONI        | AIMABLE        |             
+| 8   | 223018803  | MUKAMA        | UYISENGA Lea   |       
+| 9   | 223010019  | MUKAMAKOMBE   |  Violette    |        
+| 10  | 223009957  | MUNEZERO      | Grace          |         
 
 
