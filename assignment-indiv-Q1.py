@@ -47,14 +47,14 @@ for i in range(numberItems):
         print("your items Added, continue with other operations! \n ----------------------")
 
 
-removingNumbe=int(input("enter number of Items to remove on menu: "))
-for i in range(numberItems):
+removingNumber=int(input("enter number of Items to remove on menu if any : "))
+for i in range(removingNumber):
     item = input(f"Enter Item {i+1} : ")
     removeMenuItem(item)
     if i==numberItems-1:
         print("your items removed, continue with other operations! \n ----------------------")
 
-ordersNum=int(input("enter number of orders to place: "))
+ordersNum=int(input("enter number of orders to place if any: "))
 i=1
 while i<=ordersNum:
     item = input(f"Enter your order {i} : ")
@@ -66,16 +66,16 @@ while i<=ordersNum:
             i=i
         else:
             i=i+1
-    if i==ordersNum:
+    if i== ordersNum+1:
         print("your orders Placed, continue with other operations! \n ----------------------")
 
-undoingNumber = int(input("Enter number of orders to undo: "))
+undoingNumber = int(input("Enter number of orders to undo if any : "))
 for i in range(undoingNumber):
     undoOrder()
     if i==undoingNumber-1:
         print("your orders undone, continue with other operations! \n ----------------------")
 
-proccessNumber = int(input("Enter number of orders to Process: "))
+proccessNumber = int(input("Enter number of orders to Process if any: "))
 for i in range(proccessNumber):
     processOrder()
     if i==proccessNumber-1:
